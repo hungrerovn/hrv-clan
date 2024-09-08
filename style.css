@@ -49,3 +49,34 @@ p {
   color: white;
   background-color: black;
 }
+
+nav {
+  background-color: #20ffff;
+  padding: 5px;
+  border: 5px solid #ff5000;
+  border-radius: 6px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav li {
+  margin-right: 1px;
+}
+
+nav a {
+  color: #000000;
+  text-decoration: underline;
+}
+
+nav a:hover {
+  color: #000000;
+  background-color: #20ff00;
+  padding: 20px;
+  border-radius: 6px;
+  }
