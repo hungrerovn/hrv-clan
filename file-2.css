@@ -2,6 +2,7 @@ body {
   background-image: url('https://files.shapes.inc/a76644ac.png');
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 h1 {
