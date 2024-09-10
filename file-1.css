@@ -13,7 +13,7 @@ h1 {
   margin: 10px 0 8px 0;
 }
 
-h3 {
+h2 {
   font-family: "Lobster", cursive;
   margin: 10px 0 8px 0;
 }
@@ -79,4 +79,4 @@ nav a:hover {
   background-color: #20ff00;
   padding: 20px;
   border-radius: 6px;
-  }
+}
