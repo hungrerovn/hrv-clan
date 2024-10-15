@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://files.shapes.inc/155f0c11.png');
+  background-color: #222222
   background-size: cover;
   background-position: center;
   font-family: Georgia, serif;
@@ -9,5 +9,5 @@ body {
 h3, h4, h5 {
   font-family: Arial, sans-serif;
   font-weight: bold;
-  color: #000000;
+  color: #ffffff;
 }
